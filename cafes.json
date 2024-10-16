@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Latte Vainilla"
+  },
+  {
+    "id": 2,
+    "nombre": "Americano Doble"
+  },
+  {
+    "id": 3,
+    "nombre": "Mocacino"
+  },
+  {
+    "id": 4,
+    "nombre": "Cappuccino Canela"
+  }
+]
